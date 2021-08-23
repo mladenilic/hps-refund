@@ -1,0 +1,9 @@
+# Ignore IDE config
+/.idea
+
+# Ignore bundler stuff
+/.bundle
+/vendor
+
+# misc
+.DS_Store
